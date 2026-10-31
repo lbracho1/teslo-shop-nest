@@ -19,9 +19,9 @@ npm install
 ```
 docker-compose up -d
 ```
-6. Ejecutar el SEED
+6. Levantar en modo desarollo ``` npm run start:dev ```
+
+7. Ejecutar el SEED
 ```
 http://localhost:3000/api/seed
 ```
-
-7. Levantar en modo desarollo ``` npm run start:dev ```
